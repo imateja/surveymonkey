@@ -1,0 +1,59 @@
+{
+
+    "Survey_Name": {
+ 
+       "Page_Name": {
+ 
+           "Question1_Name": {
+ 
+               "Description" : "best movie?",
+ 
+               "Answers" : [
+ 
+                   "in the mood for love",
+ 
+                   "all about lily chou chou",
+ 
+                   "handmaiden"
+ 
+               ]
+ 
+           },
+ 
+           "Question2_Name": {
+ 
+               "Description" : "best video game?",
+ 
+               "Answers" : [
+ 
+                   "nier automata",
+ 
+                   "baldur's gate 3",
+ 
+                   "disco elysium"
+ 
+               ]
+ 
+           },
+           "Question3_Name": {
+ 
+            "Description" : "best drink?",
+
+            "Answers" : [
+
+                "coke",
+
+                "pepsi",
+
+                "water"
+
+            ]
+
+        }
+    
+ 
+       }
+ 
+    }
+ 
+ }
